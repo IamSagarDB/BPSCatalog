@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BPS</string>
+    <string name="catalog">Catalog</string>
+    <string name="item_details_fragment">Item Details</string>
+    <string name="banashankri_provision_store">Sri Banashankri Provision Store</string>
+    <string name="login">LogIn</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="request_otp">Request OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="title_activity_auth">Phone Authentication</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_details">Product Details</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="_100gm">100gm</string>
+    <string name="_50gm">50gm</string>
+    <string name="_250gm">250gm</string>
+    <string name="_1_2kg">1/2kg</string>
+    <string name="_3_4kg">3/4kg</string>
+    <string name="_1kg">1kg</string>
+    <string name="convert_price_to_weight">Convert Price to Weight</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="get_weight">get weight</string>
+    <string name="add_product">Add Product</string>
+    <string name="measured_in_kg_lts">Measured in (Kg / Lts)</string>
+    <string name="category">Category</string>
+    <string name="product_name_in_en">Product Name in EN</string>
+    <string name="product_name_in_kn">Product Name in KN</string>
+    <string name="update">update</string>
+    <string name="search_item">Search Item</string>
+</resources>
